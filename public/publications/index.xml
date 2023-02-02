@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Publications on NC</title>
+    <link>https://navenachaitoo.github.io/publications/</link>
+    <description>Recent content in Publications on NC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://navenachaitoo.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Queens 730 Process Evaluation</title>
+      <link>https://navenachaitoo.github.io/publications/2023-01-21-queens-730-process-evaluation/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://navenachaitoo.github.io/publications/2023-01-21-queens-730-process-evaluation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
