@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NC</title>
+    <link>https://navenachaitoo.github.io/</link>
+    <description>Recent content on NC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://navenachaitoo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://navenachaitoo.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://navenachaitoo.github.io/about/</guid>
+      <description>Navena Chaitoo is a criminal justice researcher and policy expert with a career dedicated to improving outcomes for justice-involved individuals and strengthening oversight in New York City’s jail system. She is the Assistant Executive Director of Research at the New York City Board of Correction (BOC), where she leads a team that conducts independent research on conditions of confinement, healthcare access, and compliance with correctional standards. Her work informs policy decisions, drives system improvements, and ensures accountability through data-driven oversight and evidence-based recommendations.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://navenachaitoo.github.io/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://navenachaitoo.github.io/media/</guid>
+      <description>NYC Board of Correction Public Meeting (October 8, 2024) CUNY Graduate Center Dissertation Showcase (May 17, 2023) Pioneer of the Disability Rights Movement Speaks at Fordham: A Conversation with Judy Heumann (October 16, 2020) 20 in Their 20s: Navena Chaitoo (June 29, 2017) Rose Hill Student Wins National Science Foundation Graduate Research (May 13, 2013) </description>
+    </item>
+  </channel>
+</rss>
